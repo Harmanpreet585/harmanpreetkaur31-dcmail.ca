@@ -1,3 +1,7 @@
+// Name : Harmanpreet Kaur
+// StudentID : 100734511
+// Date : 27 march 2020
+
 class Contact
 {
     constructor(contactName = "", emailAddress = "", contactNumber = "", contactMessage = "")
@@ -105,6 +109,7 @@ let app;
         });
      }
     
+
 
     /**
      * This function injects content into the targetElement's container
